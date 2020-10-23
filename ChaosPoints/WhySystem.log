@@ -1,0 +1,49 @@
+
+-----------------WhyEngine Initialize Start-----------------
+
+[11996]20:02:16:792:  	[Tip]: Engine config file: WhyCore.ini
+[11996]20:02:16:792:  	[Tip]: Start Loading modules...
+[11996]20:02:16:792:  	[Tip]: Scanning Path: ".\dll\"
+[11996]20:02:16:792:  	[Tip]: Loading modules...
+[11996]20:02:16:792:  	[Tip]: Loading module's name: ".\dll\ChaosPoints.dll"
+[11996]20:02:16:795:  	[Tip]: Loading module's name: ".\dll\YControlsUI.dll"
+[11996]20:02:16:798:  	[Tip]: Loading module's name: ".\dll\YDX9Render.dll"
+[11996]20:02:16:802:  	[Tip]: Loading module's name: ".\dll\YDxMeshBuilder.dll"
+[11996]20:02:16:804:  	[Tip]: Loading module's name: ".\dll\YPrimitiveRender.dll"
+[11996]20:02:16:806:  	[Tip]: Loading module's name: ".\dll\YRenderableDrawers.dll"
+[11996]20:02:16:809:  	[Tip]: Loading module's name: ".\dll\YSceneManager.dll"
+[11996]20:02:16:811:  	[Tip]: Loading module's name: ".\dll\YSimpleDX9Font.dll"
+[11996]20:02:16:813:  	[Tip]: Finish Loading modules.
+[11996]20:02:16:813:  	[Tip]: Create game: CChaosPoints
+[11996]20:02:16:813:  	[Tip]: Initializing DirectX 9.
+[11996]20:02:16:837:  	[D3D Adapter] Driver: nvldumd.dll
+[11996]20:02:16:838:  	[D3D Adapter] Description: NVIDIA Quadro P600
+[11996]20:02:16:838:  	[D3D Adapter] DeviceName: \\.\DISPLAY1
+[11996]20:02:16:838:  	[D3D Adapter] DriverVersion: 26.21.14.3086
+[11996]20:02:16:838:  	[D3D Adapter] VendorId = 0x10DE
+[11996]20:02:16:838:  	[D3D Adapter] DeviceId = 0x1CB2
+[11996]20:02:16:838:  	[D3D Adapter] SubSysId = 0x11BD10DE
+[11996]20:02:16:838:  	[D3D Adapter] Revision = 161
+[11996]20:02:16:838:  	[D3D Adapter] WHQLLevel: Not certified
+[11996]20:02:16:900:  	[Tip]: DirectX 9 Setup. 1136 * 554
+
+-----------------WhyEngine Initialize Finish-----------------
+
+
+-------------------WhyEngine Destory Start-------------------
+
+[11996]20:02:21:824:  	[Tip]: Shut Down DirectX 9.
+[11996]20:02:21:824:  	[Tip]: Destory game: CChaosPoints
+
+--------Memory Clear Start--------
+
+[11996]20:02:21:825:  	Used Blocks Num:           51
+[11996]20:02:21:825:  	Max Using Blocks Num:      50
+[11996]20:02:21:826:  	Used Memory Size:          139782
+[11996]20:02:21:826:  	Max Using Memory Size:     139396
+
+--------Memory Clear Finish--------
+
+
+------------------WhyEngine Destory Finish-------------------
+

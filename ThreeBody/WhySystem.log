@@ -1,0 +1,55 @@
+
+-----------------WhyEngine Initialize Start-----------------
+
+[16212]20:19:36:753:  	[Tip]: Engine config file: WhyCore.ini
+[16212]20:19:36:753:  	[Tip]: Start Loading modules...
+[16212]20:19:36:753:  	[Tip]: Scanning Path: ".\dll\"
+[16212]20:19:36:754:  	[Tip]: Loading modules...
+[16212]20:19:36:754:  	[Tip]: Loading module's name: ".\dll\ThreeBody.dll"
+[16212]20:19:36:754:  	[Tip]: Loading module's name: ".\dll\YControlsUI.dll"
+[16212]20:19:36:755:  	[Tip]: Loading module's name: ".\dll\YDX9Render.dll"
+[16212]20:19:36:756:  	[Tip]: Loading module's name: ".\dll\YDxMeshBuilder.dll"
+[16212]20:19:36:756:  	[Tip]: Loading module's name: ".\dll\YPrimitiveRender.dll"
+[16212]20:19:36:757:  	[Tip]: Loading module's name: ".\dll\YRenderableDrawers.dll"
+[16212]20:19:36:758:  	[Tip]: Loading module's name: ".\dll\YSceneManager.dll"
+[16212]20:19:36:758:  	[Tip]: Loading module's name: ".\dll\YSimpleDX9Font.dll"
+[16212]20:19:36:758:  	[Tip]: Finish Loading modules.
+[16212]20:19:36:759:  	[Tip]: Create game: CThreeBody
+[16212]20:19:36:759:  	[Tip]: Initializing DirectX 9.
+[16212]20:19:36:783:  	[D3D Adapter] Driver: nvldumd.dll
+[16212]20:19:36:783:  	[D3D Adapter] Description: NVIDIA Quadro P600
+[16212]20:19:36:783:  	[D3D Adapter] DeviceName: \\.\DISPLAY1
+[16212]20:19:36:783:  	[D3D Adapter] DriverVersion: 26.21.14.3086
+[16212]20:19:36:783:  	[D3D Adapter] VendorId = 0x10DE
+[16212]20:19:36:783:  	[D3D Adapter] DeviceId = 0x1CB2
+[16212]20:19:36:784:  	[D3D Adapter] SubSysId = 0x11BD10DE
+[16212]20:19:36:784:  	[D3D Adapter] Revision = 161
+[16212]20:19:36:784:  	[D3D Adapter] WHQLLevel: Not certified
+[16212]20:19:36:838:  	[Tip]: DirectX 9 Setup. 1136 * 554
+
+-----------------WhyEngine Initialize Finish-----------------
+
+[16212]20:28:02:930:  	[Tip]: DirectX 9 Reset. Viewport 589 * 442
+[16212]20:30:14:957:  	[Tip]: DirectX 9 Reset. Viewport 1536 * 801
+[16212]20:39:31:762:  	[Tip]: DirectX 9 Reset. Viewport 589 * 442
+[16212]20:41:59:388:  	[Tip]: DirectX 9 Reset. Viewport 1536 * 801
+[16212]20:43:24:219:  	[Tip]: DirectX 9 Reset. Viewport 589 * 442
+[16212]20:47:25:284:  	[Tip]: DirectX 9 Reset. Viewport 1536 * 801
+
+-------------------WhyEngine Destory Start-------------------
+
+[16212]20:56:24:762:  	[Tip]: Shut Down DirectX 9.
+[16212]20:56:24:763:  	[Tip]: Destory game: CThreeBody
+
+--------Memory Clear Start--------
+
+[16212]20:56:24:764:  	Used Blocks Num:           62
+[16212]20:56:24:764:  	Max Using Blocks Num:      61
+[16212]20:56:24:764:  	Used Memory Size:          83868
+[16212]20:56:24:764:  	Max Using Memory Size:     82164
+
+--------Memory Clear Finish--------
+
+
+------------------WhyEngine Destory Finish-------------------
+

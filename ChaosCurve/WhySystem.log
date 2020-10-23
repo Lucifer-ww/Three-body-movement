@@ -1,0 +1,57 @@
+
+-----------------WhyEngine Initialize Start-----------------
+
+[8092]10:17:42:640:  	[Tip]: Engine config file: WhyCore.ini
+[8092]10:17:42:641:  	[Tip]: Start Loading modules...
+[8092]10:17:42:641:  	[Tip]: Scanning Path: ".\dll\"
+[8092]10:17:42:642:  	[Tip]: Loading modules...
+[8092]10:17:42:643:  	[Tip]: Loading module's name: ".\dll\ChaosCurve.dll"
+[8092]10:17:43:106:  	[Tip]: Loading module's name: ".\dll\YControlsUI.dll"
+[8092]10:17:43:443:  	[Tip]: Loading module's name: ".\dll\YDX9Render.dll"
+[8092]10:17:43:599:  	[Tip]: Loading module's name: ".\dll\YDxMeshBuilder.dll"
+[8092]10:17:43:751:  	[Tip]: Loading module's name: ".\dll\YPrimitiveRender.dll"
+[8092]10:17:43:952:  	[Tip]: Loading module's name: ".\dll\YRenderableDrawers.dll"
+[8092]10:17:44:204:  	[Tip]: Loading module's name: ".\dll\YSceneManager.dll"
+[8092]10:17:44:355:  	[Tip]: Loading module's name: ".\dll\YSimpleDX9Font.dll"
+[8092]10:17:44:605:  	[Tip]: Finish Loading modules.
+[8092]10:17:44:606:  	[Tip]: Create game: CChaosCurve
+[8092]10:17:44:607:  	[Tip]: Initializing DirectX 9.
+[8092]10:17:44:803:  	[D3D Adapter] Driver: igdumd32.dll
+[8092]10:17:44:804:  	[D3D Adapter] Description: Intel(R) HD Graphics 4000
+[8092]10:17:44:805:  	[D3D Adapter] DeviceName: \\.\DISPLAY1
+[8092]10:17:44:805:  	[D3D Adapter] DriverVersion: 9.17.10.2914
+[8092]10:17:44:806:  	[D3D Adapter] VendorId = 0x8086
+[8092]10:17:44:806:  	[D3D Adapter] DeviceId = 0x0166
+[8092]10:17:44:807:  	[D3D Adapter] SubSysId = 0x0101106B
+[8092]10:17:44:807:  	[D3D Adapter] Revision = 9
+[8092]10:17:44:808:  	[D3D Adapter] WHQLLevel: Not certified
+[8092]10:17:44:844:  	[Tip]: DirectX 9 Setup. 1424 * 729
+
+-----------------WhyEngine Initialize Finish-----------------
+
+[8092]10:17:54:755:  	[Tip]: DirectX 9 Reset. Viewport 1 * 1
+[8092]10:25:30:663:  	[Tip]: DirectX 9 Reset. Viewport 1424 * 729
+[8092]10:25:36:295:  	[Tip]: DirectX 9 Reset. Viewport 1 * 1
+[8092]10:35:14:756:  	[Tip]: DirectX 9 Reset. Viewport 1424 * 729
+[8092]10:35:28:551:  	[Tip]: DirectX 9 Reset. Viewport 1 * 1
+[8092]10:36:01:035:  	[Tip]: DirectX 9 Reset. Viewport 1424 * 729
+[8092]10:36:22:688:  	[Tip]: DirectX 9 Reset. Viewport 1 * 1
+[8092]10:39:36:959:  	[Tip]: DirectX 9 Reset. Viewport 1424 * 729
+
+-------------------WhyEngine Destory Start-------------------
+
+[8092]10:39:45:379:  	[Tip]: Shut Down DirectX 9.
+[8092]10:39:45:380:  	[Tip]: Destory game: CChaosCurve
+
+--------Memory Clear Start--------
+
+[8092]10:39:45:381:  	Used Blocks Num:           54
+[8092]10:39:45:382:  	Max Using Blocks Num:      53
+[8092]10:39:45:382:  	Used Memory Size:          452277
+[8092]10:39:45:382:  	Max Using Memory Size:     451892
+
+--------Memory Clear Finish--------
+
+
+------------------WhyEngine Destory Finish-------------------
+
